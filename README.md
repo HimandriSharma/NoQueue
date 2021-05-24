@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-(Prerequisite flutter is installed on your system)
+### (Prerequisite flutter is installed on your system)
 -flutter pub get
 -flutter run
 
